@@ -29,7 +29,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenLogin }) => {
   const socialLinks = [
     { icon: Facebook, href: 'https://www.facebook.com/share/1834Ekvnrv/?mibextid=wwXIfr', label: 'Facebook' },
     { icon: Instagram, href: 'https://www.instagram.com/360cars.platform?igsh=MWdpd2dpMjdscG4yMQ%3D%3D&utm_source=qr', label: 'Instagram' },
-    { icon: Twitter, href: 'http://localhost:3000/#', label: 'X (Twitter)' },
+    { icon: Twitter, href: 'https://x.com/360cars?s=21', label: 'X (Twitter)' },
     { icon: Linkedin, href: 'http://localhost:3000/#', label: 'LinkedIn' },
 
   ];
