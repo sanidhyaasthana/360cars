@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(curl:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(npx tsc:*)",
+      "Bash(npx vite:*)",
+      "Bash(test:*)",
+      "Bash(xargs grep:*)",
+      "Bash(grep:*)",
+      "Bash(__NEW_LINE_2480ff19185d1553__ echo:*)"
+    ]
+  }
+}
